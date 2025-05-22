@@ -8,10 +8,10 @@
 
 ## Sobre mim
 
-<img align="right" heigth="230" src="https://i.pinimg.com/originals/04/86/9e/04869e09851353129379e535502d87e4.gif">
+<img align="center" heigth="200" src="https://i.pinimg.com/originals/04/86/9e/04869e09851353129379e535502d87e4.gif">
 
-Estudante de Redes de Computadores e Cybersecurity ambos no Senai, sempre em busca de novos aprendizados,
-atualmente desenvolvendo alguns projetos em nuvem, tanto AWS quanto Azure.
+<p>Estudante de Redes de Computadores e Cybersecurity ambos no Senai, sempre em busca de novos aprendizados,
+atualmente desenvolvendo alguns projetos em nuvem, tanto AWS quanto Azure.</p>
 
 Conecte-se comigo!
 
@@ -21,10 +21,21 @@ Conecte-se comigo!
 
 ---
 
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisno NetAcademy Introduction To Networks |
+| ![AWS_CE](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | AWS Academy Cloud Fundations |
+
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,html,css,debian,figma,git,github,go,gmail,grafana,kali,linux,nginx,notion,py,vscode,windows">
+  <img src="https://skillicons.dev/icons?i=aws,azure,bash,html,css,debian,git,github,go,gmail,grafana,kali,linux,nginx,py">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,vscode,js">
 </p>
 
 <p align="center">
@@ -35,3 +46,4 @@ Conecte-se comigo!
    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
 </p>
+
