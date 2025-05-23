@@ -46,13 +46,14 @@
 
 ---
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 60px;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=feitosaleozinho&theme=react&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feitosaleozinho&layout=normal&langs_count=10&theme=react&hide_border=true" alt="Top Langs" width="470" />
 </div>
 <br>
 
 ---
+<div align="center">
 
 <h1><strong>Certificações</strong></h1>
 
@@ -63,18 +64,23 @@
 
 <br>
 
+</div>
+
  ---
  
+ <div align="center">
 <h1><strong>Tech Stack</strong></h1>
+ </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,bash,html,css,debian,git,github,go,gmail,grafana,kali,linux,nginx,py">
 </p>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,vscode,js">
 </p>
-
+<br>
 <p align="center">
    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff">
    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
@@ -83,6 +89,8 @@
    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
 </p>
+
+---
 
 <div align="center">
 <h1>Conecte-se comigo!</h1>
