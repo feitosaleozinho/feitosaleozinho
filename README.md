@@ -64,7 +64,7 @@
 ---
 
 <h2>📂 Projetos técnicos</h2>
-<h3>🩺 Resposta a incidentes e SOC integrado — Projeto AptX Team</h3>
+<h3>🩺 Resposta a incidentes e SOC integrado - Projeto AptX Team</h3>
 <p style="text-align: justify;">Simulação completa de ataque de ransomware em ambiente hospitalar fictício ("Hospital Vida Plena"), integrando Security Onion (NDR), Elastic Security (EDR), Wazuh (SIEM) e n8n (SOAR) sobre infraestrutura Proxmox. Inclui mapeamento de táticas via MITRE ATT&CK, documentação de IoCs e plano de mitigação/hardening seguindo o ciclo de resposta a incidentes do NIST — com regras customizadas de bloqueio de ransomware no Wazuh, segmentação de rede via OPNsense e MFA/AppLocker.</p>
 <h3>🔔 Pipeline de alertas SOC automatizado</h3>
 <p style="text-align: justify;">Ambiente self-hosted (Docker/Debian) integrando n8n, Security Onion, Wazuh, Suricata e ElastAlert2 para automação de alertas de segurança, com geração de relatórios em PDF (Gotenberg), classificação dinâmica de ataques por regex (bruteforce, reconhecimento, ransomware, movimento lateral, entre outros) e ajuste fino de regras para reduzir falsos positivos e flood de alertas.</p>
